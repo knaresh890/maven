@@ -1,1 +1,1 @@
-this is my testing of cicd
+this is my testing of cicd am able to install the entire setup
